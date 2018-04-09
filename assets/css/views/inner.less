@@ -107,11 +107,16 @@ section.inner {
   padding: 80px 0;
 }
 #related-slider {
+  margin: 0 1px;
   .slide-item {
-    border-right: 1px solid darken(@bg-light-grey, 3%);
+    margin-top: 20px;
+    @media (min-width: 768px) {
+      border-right: 1px solid darken(@bg-light-grey, 3%);
+    }
     outline: 0;
     img {
       padding: 30px;
+      margin: 0 auto;
     }
     color: darken(@grey-color, 45%);
     p {
