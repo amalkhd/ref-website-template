@@ -1,0 +1,158 @@
+// main:../style.less
+section.inner {
+  margin-top: 110px;
+  section.details {
+    padding: 60px 0;
+    .product-details {
+      p {
+        color: darken(@grey-color, 40%);
+        &.code {
+          span {
+            color: lighten(red, 20%);
+          }
+        }
+        &.head {
+          font-size: 30px;
+          .light;
+        }
+        &.p-desc {
+          .desc;
+          font-size: 14px;
+          font-weight: 400;
+          letter-spacing: initial;
+          line-height: 1.5;
+          margin-bottom: 30px;
+        }
+      }
+      table.table {
+        tr {
+          td {
+            padding-left: 0;
+            color: darken(@grey-color, 40%);
+            border: none;
+            &:first-child {
+              font-weight: 500;
+            }
+          }
+        }
+      }
+      .btn.btn-quick {
+        .lato;
+        font-size: 12px;
+        text-transform: uppercase;
+        padding: 6px 24px;
+        color: white;
+        background-color: @cool-blue;
+        &:focus {
+          outline: 0;
+        }
+      }
+    }
+  }
+}
+
+#product-view {
+  .slide-item {
+    &:focus {
+      outline: 0;
+    }
+    margin-bottom: 80px;
+    img {
+      margin: 0 auto;
+    }
+  }
+  .slick-prev {
+    left: 25px;
+    background-color: white;
+    transform: skewX(-20deg);
+    &:before {
+      color: black;
+    }
+  }
+  .slick-next,
+  .slick-prev {
+    z-index: 1;
+    width: auto;
+    height: auto;
+    padding: 6px 8px;
+    &::before {
+      font-family: none !important;
+    }
+  }
+  .slick-next {
+    transform: skewX(-20deg);
+    right: 25px;
+    background-color: @cool-blue;
+  }
+  .slick-dots {
+    li {
+      &.slick-active {
+        button {
+          &:before {
+            color: @cool-blue;
+          }
+        }
+      }
+      button {
+        &:before {
+          font-size: 10px;
+          color: @cool-blue;
+        }
+      }
+    }
+  }
+}
+
+.related {
+  padding: 80px 0;
+}
+#related-slider {
+  .slide-item {
+    border-right: 1px solid darken(@bg-light-grey, 3%);
+    outline: 0;
+    img {
+      padding: 30px;
+    }
+    color: darken(@grey-color, 45%);
+    p {
+      &:first-of-type {
+        font-weight: 700;
+        font-size: 16px;
+      }
+      &:last-of-type {
+        .light;
+      }
+    }
+    a {
+      .lato;
+      font-size: 13px;
+      color: @cool-blue;
+      outline: 0;
+    }
+  }
+  .slick-prev {
+    right: 50px;
+    left: initial;
+    background-color: lighten(@grey-color, 10%);
+    transform: skewX(-20deg);
+    &:before {
+      color: black;
+    }
+  }
+  .slick-next,
+  .slick-prev {
+    top: -34px;
+    z-index: 1;
+    width: auto;
+    height: auto;
+    padding: 6px 8px;
+    &::before {
+      font-family: none !important;
+    }
+  }
+  .slick-next {
+    transform: skewX(-20deg);
+    right: 0;
+    background-color: @cool-blue;
+  }
+}

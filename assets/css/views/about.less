@@ -1,0 +1,149 @@
+// main:../style.less
+.banner {
+  background-size: cover;
+  padding-top: 100px;
+  background-position: top center;
+  @media (min-width: 768px) {
+    padding-top: 140px;
+  }
+  .left-content {
+    h1 {
+      .lato;
+      font-weight: bold;
+      font-size: 40px;
+      color: @cool-grey;
+      text-transform: uppercase;
+      span {
+        font-weight: 400;
+      }
+    }
+
+    p {
+      font-family: "Lato", sans-serif;
+      padding-top: 20px;
+      font-weight: 300;
+      width: 80%;
+      color: @cool-grey;
+      @media (min-width: 768px) {
+        width: 50%;
+      }
+    }
+  }
+  .right-content {
+    @media (min-width: 768px) {
+      .center;
+    }
+    .btn-white.btn {
+      .lato;
+      background-color: @btn2-color;
+      color: @cool-grey;
+      text-transform: uppercase;
+      font-size: 12px;
+      letter-spacing: 1px;
+      letter-spacing: 0.5px;
+      padding: 6px 18px;
+      transition: all 0.2s ease;
+      margin-top: 20px;
+      @media (min-width: 768px) {
+        margin-top: 60px;
+      }
+      &:focus {
+        outline: 0;
+        box-shadow: none;
+      }
+      &:hover {
+        background-color: @cool-grey;
+        color: @btn2-color;
+      }
+    }
+  }
+}
+
+section.about {
+  .about-banner {
+    .banner;
+    background: url("../img/about/about-banner.png") no-repeat;
+    height: 419px;
+  }
+  .content {
+    background-color: @bg-light-grey;
+    .right-content {
+      h2 {
+        margin: 0;
+        color: @cool-grey;
+        line-height: 1.4;
+        letter-spacing: 0.5px;
+        span {
+          font-weight: 900;
+          font-size: 40px;
+        }
+      }
+    }
+  }
+}
+
+.desc {
+  .light;
+  color: darken(@grey-color, 45%);
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  line-height: 1.8;
+  &.white {
+    .white;
+  }
+}
+
+.history {
+  h1 {
+    font-size: 50px;
+    letter-spacing: 1px;
+  }
+  padding: 15% 0;
+  background-size: cover;
+  background-position: top center;
+  background: url("../img/about/about-history.png") no-repeat;
+  height: 600px;
+}
+
+section.enquiry {
+  .enquiry-text {
+    h3 {
+      color: @cool-grey;
+    }
+    h5,
+    p {
+      letter-spacing: 0.5px;
+      color: darken(@grey-color, 45%);
+    }
+  }
+}
+
+.enquiry-form {
+  .placeholder(darken(@grey-color, 40%));
+  .form-control {
+    border-radius: 0;
+    box-shadow: none;
+    color: darken(@grey-color, 60%);
+    &:focus {
+      border-color: darken(@grey-color, 20%);
+    }
+  }
+  textarea {
+    resize: none;
+  }
+  .btn.btn-submit {
+    .roboto;
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    padding: 8px 24px;
+    font-weight: 700;
+    border-radius: 0;
+    background-color: white;
+    border: 1px solid darken(@grey-color, 40%);
+    color: darken(@grey-color, 60%);
+    box-shadow: none;
+    &:focus {
+      outline: 0;
+    }
+  }
+}

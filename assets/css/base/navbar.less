@@ -1,0 +1,72 @@
+// main:../style.less
+
+.pos-abs {
+  padding-top: 20px;
+  position: absolute;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+
+  .nav {
+    li {
+      &.active {
+        a {
+          background-color: transparent;
+          font-weight: bold;
+          color: @nav-active;
+
+          &:hover {
+            background-color: transparent;
+          }
+        }
+      }
+
+      a {
+        color: @nav-color;
+        text-decoration: none;
+        font-weight: light;
+        text-transform: uppercase;
+
+        &:hover {
+          background-color: transparent;
+        }
+
+        &:focus {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+}
+
+.navbar-default {
+  .navbar-collapse {
+    border: none;
+  }
+}
+@media (max-width:767px) {
+  .navbar-default {
+    .navbar-collapse {
+      border: none;
+      background: #e2e4e8;
+      z-index: 999;
+      position: absolute;
+      width: 100%;
+
+      .nav {
+        li {
+          &:hover {
+            background-color: #c9daea;
+          }
+        }
+      }
+    }
+  }
+
+  .logo {
+    margin-top: -10px;
+  }
+}
