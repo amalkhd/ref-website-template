@@ -16,6 +16,9 @@
       span {
         font-weight: 400;
       }
+      @media (max-width: 767px) {
+        font-size: 35px;
+      }
     }
 
     p {
@@ -61,9 +64,9 @@
 
 section.about {
   .about-banner {
-    .banner;
     background: url("../img/about/about-banner.png") no-repeat;
     height: 419px;
+    .banner;
   }
   .content {
     background-color: @bg-light-grey;
@@ -154,7 +157,94 @@ section.enquiry {
   padding: 80px 0;
 }
 .contact-banner {
-  .banner;
   background: url("../img/contact-banner.png") no-repeat;
   height: 419px;
+  .banner;
+}
+
+// prodcuts
+.products-banner {
+  background: url("../img/products/products-banner.png") no-repeat;
+  height: 419px;
+  .banner;
+}
+
+.products-content {
+  .text-grey;
+  .btn-blue.btn {
+    background-color: @cool-blue;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    .lato;
+    letter-spacing: 0.5px;
+    outline: 0;
+  }
+}
+
+.image-bg {
+  // height: 795px;
+  background: url("../img/products/triangle-r.png") no-repeat;
+  background-size: cover;
+}
+
+.product-list {
+  .top,
+  .bottom {
+    h2 {
+      @media (max-width: 991px) {
+        font-size: 24px;
+      }
+    }
+  }
+  .item {
+    position: relative;
+    .top {
+      .content-div {
+        position: absolute;
+        right: 10%;
+        top: 70px;
+      }
+    }
+    .bottom {
+      .content-div {
+        position: absolute;
+        left: 10%;
+        bottom: 150px;
+        @media (max-width: 991px) {
+          bottom: 20px;
+        }
+      }
+    }
+  }
+  .bottom {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  .item-2 {
+    position: relative;
+    .top {
+      .content-div {
+        position: absolute;
+        left: 10%;
+        top: 70px;
+        @media (max-width: 991px) {
+          top: 20px;
+        }
+      }
+    }
+    .bottom {
+      .content-div {
+        position: absolute;
+        right: 10%;
+        bottom: 150px;
+        @media (max-width: 991px) {
+          bottom: 20px;
+        }
+      }
+    }
+  }
 }
