@@ -148,7 +148,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                        <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
+                  
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -161,7 +162,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                        <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
+                  
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -173,7 +175,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                        <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
+                  
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -185,7 +188,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                        <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
+                  
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -197,7 +201,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                        <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
+                  
                     </div>
                 </div>
             </div>
