@@ -4,14 +4,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-xs-12 left-content">
-                    <h1>REFRIGERATION
+                    <h1 class="mt-0">REFRIGERATION
                         <br>
                         <span>SERVICE PARTS</span>
                     </h1>
-                    <p>Bringing You the Industry's Most Competitive Pricing for All of Your HVAC needs...</p>
+                    <p style="padding-top:0">Bringing You the Industry's Most Competitive Pricing for All of Your HVAC needs...</p>
                 </div>
                 <div class="col-sm-6 col-xs-12 right-content">
-                                            <a href="contact.php#contact" class="btn btn-white">Quick Contact</a>
+                    <a href="contact.php#contact" class="btn btn-white">Quick Contact</a>
 
                 </div>
             </div>
@@ -148,8 +148,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                                <a href="details.php" class="btn btn-blue">view products</a>
-                  
+                        <a href="details.php" class="btn btn-blue">view products</a>
+
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -162,8 +162,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                                <a href="details.php" class="btn btn-blue">view products</a>
-                  
+                        <a href="details.php" class="btn btn-blue">view products</a>
+
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -175,8 +175,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                                <a href="details.php" class="btn btn-blue">view products</a>
-                  
+                        <a href="details.php" class="btn btn-blue">view products</a>
+
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -188,8 +188,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                                <a href="details.php" class="btn btn-blue">view products</a>
-                  
+                        <a href="details.php" class="btn btn-blue">view products</a>
+
                     </div>
                 </div>
                 <div class="col-xs-12 mt-20 mb-20">
@@ -201,8 +201,8 @@
                         <p class="mt-30 mb-30">
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                         </p>
-                                <a href="details.php" class="btn btn-blue">view products</a>
-                  
+                        <a href="details.php" class="btn btn-blue">view products</a>
+
                     </div>
                 </div>
             </div>

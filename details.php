@@ -47,7 +47,7 @@
                                 <td>Lorem ipsum dolor sit.</td>
                             </tr>
                         </table>
-                        <button class="btn btn-quick">quick contact</button>
+                        <a href="contact.php#contact" class="btn btn-quick">Quick Contact</a>
                     </div>
                 </div>
             </div>
