@@ -30,7 +30,7 @@
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                                 </p>
-                                <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
                             </div>
                         </div>
 
@@ -48,7 +48,7 @@
                                     <p class="mt-30 mb-30">
                                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                                     </p>
-                                    <button class="btn btn-blue">view products</button>
+                                    <a href="details.php" class="btn btn-blue">view products</a>
                                 </div>
                             </div>
                             <img src="assets/img/products/pro-2.png" alt="" class="img-responsive w-100">
@@ -70,7 +70,7 @@
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                                 </p>
-                                <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
                             </div>
                         </div>
                         <img src="assets/img/products/pro-3.png" alt="" class="img-responsive w-100">
@@ -85,7 +85,7 @@
                                     <p class="mt-30 mb-30">
                                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                                     </p>
-                                    <button class="btn btn-blue">view products</button>
+                                    <a href="details.php" class="btn btn-blue">view products</a>
                                 </div>
                             </div>
                             <img src="assets/img/products/pro-4.png" alt="" class="img-responsive w-100">
@@ -107,7 +107,7 @@
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
                                 </p>
-                                <button class="btn btn-blue">view products</button>
+                                <a href="details.php" class="btn btn-blue">view products</a>
                             </div>
                         </div>
 

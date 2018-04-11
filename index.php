@@ -34,7 +34,7 @@
           <p class="content">Due to our experience, expertise and emphasis on quality; our compressors and service parts are used by various
             well-known companies throughout the UAE and internationally.</p>
 
-          <a href="#" class="readmore">Read More
+          <a href="about.php" class="readmore">Read More
             <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
           </a>
         </div>
