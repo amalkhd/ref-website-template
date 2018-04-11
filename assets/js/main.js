@@ -37,23 +37,20 @@ $(document).ready(function() {
     arrows: true
   });
 
-  var sw = screen.width;
-  console.log(sw);
-  if (sw <= 767) {
-    $(".slide").slick({
-      slidesToShow: 2,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 2000,
-      arrows: true
-    });
-  } else {
-    $(".slide").slick({
-      slidesToShow: 4,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 2000,
-      arrows: true
-    });
-  }
+  $(".slide").slick({
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    arrows: true,
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
 });

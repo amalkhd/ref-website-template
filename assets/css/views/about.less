@@ -2,7 +2,7 @@
 .banner {
   background-size: cover;
   padding-top: 100px;
-  background-position: top center;
+  background-position: left;
   @media (min-width: 768px) {
     padding-top: 140px;
   }
@@ -180,6 +180,10 @@ section.enquiry {
     .lato;
     letter-spacing: 0.5px;
     outline: 0;
+    transition: all 0.2s ease;
+    &:hover {
+      background-color: darken(@cool-blue, 10%);
+    }
   }
 }
 
@@ -205,6 +209,7 @@ section.enquiry {
         position: absolute;
         right: 10%;
         top: 70px;
+        z-index: 1;
       }
     }
     .bottom {
@@ -231,6 +236,7 @@ section.enquiry {
         position: absolute;
         left: 10%;
         top: 70px;
+        z-index: 1;
         @media (max-width: 991px) {
           top: 20px;
         }

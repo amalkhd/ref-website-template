@@ -4,15 +4,15 @@
     <!-- <div class="container-fluid"> -->
     <div class="container ">
       <div class="row">
-        <div class="col-sm-6 col-xs-12 left-content">
+        <div class="col-sm-6 left-content">
           <h1>Refrigeration
             <br>
             <span>SERVICE PARTS</span>
           </h1>
           <p>Bringing You the Industry's Most Competitive Pricing for All of Your HVAC needs...</p>
         </div>
-        <div class="col-sm-6 col-xs-12 center">
-          <button class="btn btn1">View Our Products</button>
+        <div class="col-sm-6 text-center">
+          <a href="products.php" class="btn btn1">View Our Products</a>
           <br>
           <button class="btn btn2">Quick Contact</button>
         </div>

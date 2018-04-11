@@ -18,6 +18,18 @@
   .input-group {
     width: 30%;
     margin: 0 auto;
+    .form-control {
+      box-shadow: none;
+      &:focus {
+        border-color: darken(@grey-color, 20%);
+      }
+    }
+    span {
+      cursor: pointer;
+      &:hover {
+        color: darken(@grey-color, 100%);
+      }
+    }
   }
 
   .subscribe {

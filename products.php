@@ -22,7 +22,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-xs-12 no-padding top">
-                        <div class="col-sm-4 col-md-3 content-div">
+                        <div class="col-md-4 col-md-3 content-div">
                             <div class="products-content text-right">
                                 <h2>Refrigeration
                                     <br> Compressor

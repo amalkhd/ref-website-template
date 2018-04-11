@@ -4,6 +4,9 @@ section.inner {
   section.details {
     padding: 60px 0;
     .product-details {
+      @media (max-width: 767px) {
+        margin-top: 60px;
+      }
       p {
         color: darken(@grey-color, 40%);
         &.code {
