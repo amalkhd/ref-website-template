@@ -11,7 +11,7 @@
                     <p>Bringing You the Industry's Most Competitive Pricing for All of Your HVAC needs...</p>
                 </div>
                 <div class="col-sm-6 col-xs-12 right-content">
-                    <button class="btn btn-white">Quick Contact</button>
+                                        <a href="#contact" class="btn btn-white">Quick Contact</a>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3912.835127609804!2d75.77210094982902!3d11.273527252865765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba65ecdcf9be993%3A0x801e9f22dd52265c!2sWebqua+Software+Solutions!5e0!3m2!1sen!2sin!4v1523334502780"
             width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </section>
-    <section class="enquiry m-tp-80">
+    <section id="contact" class="enquiry m-tp-80">
         <div class="container">
             <div class="col-sm-8 col-sm-offset-2 text-center">
                 <div class="enquiry-text">

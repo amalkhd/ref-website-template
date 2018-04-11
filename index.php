@@ -14,7 +14,7 @@
         <div class="col-sm-6 text-center">
           <a href="products.php" class="btn btn1">View Our Products</a>
           <br>
-          <button class="btn btn2">Quick Contact</button>
+          <a href="contact.php#contact" class="btn btn2">Quick Contact</a>
         </div>
       </div>
     </div>

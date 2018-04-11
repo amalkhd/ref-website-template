@@ -11,7 +11,7 @@
                     <p>Bringing You the Industry's Most Competitive Pricing for All of Your HVAC needs...</p>
                 </div>
                 <div class="col-sm-6 col-xs-12 right-content">
-                    <button class="btn btn-white">Quick Contact</button>
+                                       <a href="contact.php#contact" class="btn btn-white">Quick Contact</a>
                 </div>
             </div>
         </div>
