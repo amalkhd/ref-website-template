@@ -269,6 +269,9 @@ section.enquiry {
       &:not(:last-of-type) {
         .cat-item {
           border-right: 1px solid darken(@bg-light-grey, 3%);
+          @media (max-width: 767px) {
+            border-right: none;
+          }
         }
       }
     }
@@ -286,6 +289,13 @@ section.enquiry {
         position: relative;
         left: -15px;
         top: 20px;
+      }
+      @media (max-width: 767px) {
+        padding-bottom: 20px;
+        border-bottom: 1px solid darken(@bg-light-grey, 3%);
+        hr {
+          display: none;
+        }
       }
     }
   }
