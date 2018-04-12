@@ -63,31 +63,31 @@
                             <img src="assets/img/inner/rel-1.png" alt="" class="img-responsive">
                             <p>Piston</p>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, rem!</p>
-                            <a href="">More details</a>
+                            <a href="details.php" class="btn btn-border">More details</a>
                         </div>
                         <div class="slide-item text-center">
                             <img src="assets/img/inner/rel-2.png" alt="" class="img-responsive">
                             <p>Connecting Rod</p>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, rem!</p>
-                            <a href="">More details</a>
+                            <a href="details.php" class="btn btn-border">More details</a>
                         </div>
                         <div class="slide-item text-center">
                             <img src="assets/img/inner/rel-3.png" alt="" class="img-responsive">
                             <p>Valve Palet</p>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, rem!</p>
-                            <a href="">More details</a>
+                            <a href="details.php" class="btn btn-border">More details</a>
                         </div>
                         <div class="slide-item text-center">
                             <img src="assets/img/inner/rel-4.png" alt="" class="img-responsive">
                             <p>Main Bush</p>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, rem!</p>
-                            <a href="">More details</a>
+                            <a href="details.php" class="btn btn-border">More details</a>
                         </div>
                         <div class="slide-item text-center">
                             <img src="assets/img/inner/rel-3.png" alt="" class="img-responsive">
                             <p>Valve Palet</p>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, rem!</p>
-                            <a href="">More details</a>
+                            <a href="details.php" class="btn btn-border">More details</a>
                         </div>
                     </div>
                 </div>

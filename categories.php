@@ -48,7 +48,7 @@
                     <h4 class="text-grey">Piston</h4>
                     <p class="text-grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas consequatur inventore esse illo voluptatem
                         ex libero ea velit tenetur? Itaque!</p>
-                    <a href="details.php">More details</a>
+                    <a class="btn btn-border" href="details.php">More details</a>
                     <hr>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                     <h4 class="text-grey">Piston</h4>
                     <p class="text-grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas consequatur inventore esse illo voluptatem
                         ex libero ea velit tenetur? Itaque!</p>
-                    <a href="details.php">More details</a>
+                    <a class="btn btn-border" href="details.php">More details</a>
                     <hr>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                     <h4 class="text-grey">Piston</h4>
                     <p class="text-grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas consequatur inventore esse illo voluptatem
                         ex libero ea velit tenetur? Itaque!</p>
-                    <a href="details.php">More details</a>
+                    <a class="btn btn-border" href="details.php">More details</a>
                     <hr>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                     <h4 class="text-grey">Piston</h4>
                     <p class="text-grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas consequatur inventore esse illo voluptatem
                         ex libero ea velit tenetur? Itaque!</p>
-                    <a href="details.php">More details</a>
+                    <a class="btn btn-border" href="details.php">More details</a>
 
                 </div>
             </div>
@@ -90,7 +90,7 @@
                     <h4 class="text-grey">Piston</h4>
                     <p class="text-grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas consequatur inventore esse illo voluptatem
                         ex libero ea velit tenetur? Itaque!</p>
-                    <a href="details.php">More details</a>
+                    <a class="btn btn-border" href="details.php">More details</a>
 
                 </div>
             </div>
@@ -100,7 +100,7 @@
                     <h4 class="text-grey">Piston</h4>
                     <p class="text-grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas consequatur inventore esse illo voluptatem
                         ex libero ea velit tenetur? Itaque!</p>
-                    <a href="details.php">More details</a>
+                    <a class="btn btn-border" href="details.php">More details</a>
 
                 </div>
             </div>
