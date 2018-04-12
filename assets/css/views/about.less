@@ -254,3 +254,52 @@ section.enquiry {
     }
   }
 }
+
+// category page
+.cat-banner {
+  background: url("../img/inner/sub-banner.png") no-repeat;
+  height: 419px;
+  .banner;
+}
+
+.cat-list {
+  margin: 80px 0;
+  .row {
+    .col-sm-4 {
+      &:not(:last-of-type) {
+        .cat-item {
+          border-right: 1px solid darken(@bg-light-grey, 3%);
+        }
+      }
+    }
+    .cat-item {
+      margin: 20px 0;
+      img {
+        padding-right: 20%;
+      }
+      padding: 0 20px;
+      a {
+        color: @cool-blue;
+        font-size: 13px;
+      }
+      hr {
+        position: relative;
+        left: -15px;
+        top: 20px;
+      }
+    }
+  }
+  .input-group {
+    .form-control {
+      box-shadow: none;
+      &:focus {
+        border-color: darken(@grey-color, 40%);
+      }
+    }
+  }
+  .btn {
+    &:focus {
+      outline: 0;
+    }
+  }
+}
