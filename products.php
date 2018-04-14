@@ -26,7 +26,7 @@
                         <div class="col-md-4 col-md-3 content-div">
                             <div class="products-content text-right">
                                 <h2>Refrigeration
-                                    <br> Compressor
+                                    <br> Compressor Parts
                                 </h2>
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
@@ -42,9 +42,8 @@
                         <div class="col-xs-12 no-padding">
                             <div class="col-sm-4 col-md-3 content-div">
                                 <div class="products-content">
-                                    <h2>Refrigeration
-                                        <br> Replacement Condensing Unit &
-                                        <br>Evaporators
+                                    <h2>Refrigeration Service
+                                        <br>Parts
                                     </h2>
                                     <p class="mt-30 mb-30">
                                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
@@ -66,7 +65,7 @@
                         <div class="col-sm-4 col-md-3 content-div">
                             <div class="products-content">
                                 <h2>Refrigeration
-                                    <br> compressor parts
+                                    <br> Accessories &amp; Tools
                                 </h2>
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
@@ -81,7 +80,7 @@
                             <div class="col-sm-4 col-md-3 content-div">
                                 <div class="products-content text-right">
                                     <h2>Refrigeration
-                                        <br> Service Parts
+                                        <br> Compressors
                                     </h2>
                                     <p class="mt-30 mb-30">
                                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
@@ -103,7 +102,7 @@
                         <div class="col-sm-4 col-md-3 content-div">
                             <div class="products-content text-right">
                                 <h2>Refrigeration
-                                    <br> Accessories &amp; Tools
+                                    <br> Replacement Condensing Unit &amp; Evaporators
                                 </h2>
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
