@@ -102,7 +102,7 @@
                         <div class="col-sm-4 col-md-3 content-div">
                             <div class="products-content text-right">
                                 <h2>Refrigeration
-                                    <br> Replacement Condensing Unit &amp; Evaporators
+                                    <br>Condensing Unit &amp; Evaporators
                                 </h2>
                                 <p class="mt-30 mb-30">
                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed, facere.
